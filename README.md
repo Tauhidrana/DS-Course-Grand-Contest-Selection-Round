@@ -7,12 +7,13 @@ All solutions are in C++, and each file targets one problem from the selection r
 Current problem implementations:
 
 First_Non_Repeating_Character.cpp — Find the first non‑repeating character in a string.
-GitHub
+
 
 M_th_Character_of_Compression.cpp — Compute the m‑th character in a compressed sequence.
-GitHub
+
 
 Robots_Against_Aliens_Equal_Strength.cpp — Solve a scenario comparing robots vs. aliens with equal strength.
-GitHub
+
 
 Selling_Online_Course.cpp — Problem involving optimizing or calculating course sales.
+
